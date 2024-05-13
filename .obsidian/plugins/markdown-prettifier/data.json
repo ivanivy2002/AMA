@@ -1,0 +1,11 @@
+{
+  "bullet": "-",
+  "emphasis": "*",
+  "rule": "*",
+  "createHeaderIfNotPresent": true,
+  "newHeaderTemplate": "tags: \ndate created: \"{{date:YYYY-MM-DD HH:mm}}\" ",
+  "updateHeader": true,
+  "updateHeaderTemplate": "\ndate updated: \"{{date:YYYY-MM-DD HH:mm}}\" \n",
+  "listItemIndent": "tab",
+  "newlinesAroundHeadings": true
+}

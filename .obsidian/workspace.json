@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "7153668f10027056",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6efeed6e43f41ec",
+        "type": "tabs",
+        "dimension": 39.54423592493298,
+        "children": [
+          {
+            "id": "310beaedcd0a9fa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Help/Help.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e025afc49a99363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JL/Jatlan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb5ffe3b8a62c54b",
+        "type": "tabs",
+        "dimension": 60.45576407506703,
+        "children": [
+          {
+            "id": "ee9273dcb9a4148d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JL/Swadesh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15748df4106c5b4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JL/Passage Translation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1e9a2c6f5130657",
+    "type": "split",
+    "children": [
+      {
+        "id": "c59c29855982b60d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "510ce944441f051c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "141c6a8cefe9f6e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc2055b137615dd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "700da371dbc7d469",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JL/Swadesh.md"
+              }
+            }
+          },
+          {
+            "id": "df118d6db5e09774",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JL/Swadesh.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5110321044922,
+    "collapsed": true
+  },
+  "right": {
+    "id": "011671231612fa0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e3ebb857a298395",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13cd1a722ed2a3a2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "29a8d467a14152e0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 766.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "templates:Insert template": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ee9273dcb9a4148d",
+  "lastOpenFiles": [
+    "Help/Help.md",
+    "JL/Swadesh.md",
+    "JL/Jatlan.md",
+    "JL/Passage Translation.md",
+    "SP/dlaa.md",
+    "SP/hb-cmp&loc/bei.md",
+    "SP/diier.md",
+    "SP/dii.md",
+    "SP/ei.md",
+    "JL",
+    "SP",
+    "SP/vitlɑ.md",
+    "SP/sisrer.md",
+    "SP/tlaa.md",
+    "SP/hb-cmp&loc/hutla.md",
+    "SP/hb-cmp&loc/he.md",
+    "SP/hb-cmp&loc/hu.md",
+    "0_Manual/xampp.png",
+    "0_Manual/Manual.md",
+    "Expertise/0_2024Spring/Compilers/Ass_Compiler/ass3-IR/assign3-note.md",
+    "Expertise/0_2024Spring/Compilers/Ass_Compiler/ass3-IR/要求-ass3.md",
+    "0_Manual/修改账户名称.md",
+    "Diary/2024-05-08.md",
+    "Expertise/0_2024Spring/Compilers/Ass_Compiler/ass3-IR/中间解读-ass3-IR.md",
+    "Diary/2024-05-07.md",
+    "Diary/ass3-IR.md",
+    "Expertise/0_2024Spring/Cloud-native/Lab2-Cloud-Native/Lab2-报告-k8s.md",
+    "Expertise/0_2024Spring/Cloud-native/Lab2-Cloud-Native/lab2-readme.pdf",
+    "Expertise/0_2024Spring/Cloud-native/Lab2-Cloud-Native/Lab2-Kubernetes-k8s-Cloud-Native-解决手册.md",
+    "Expertise/0_2024Spring/Deep Learning/Lab-FasterRCNN-报告.md",
+    "Expertise/0_2024Spring/Deep Learning/1卷积神经网络.pdf",
+    "Expertise/0_2024Spring/Deep Learning/attachments/Pasted image 20240506205026.png",
+    "Expertise/0_2024Spring/Cloud-native/Lab2-Cloud-Native/attachments/Snipaste_2024-04-27_21-27-21.png",
+    "Expertise/0_2024Spring/Cloud-native/Lab2-Cloud-Native/attachments/Pasted image 20240504014909.png",
+    "Expertise/0_2024Spring/Cloud-native/Lab2-Cloud-Native/attachments/Pasted image 20240504014849.png",
+    "Expertise/0_2024Spring/Cloud-native/Lab2-Cloud-Native/assets/2/middlewares_view.png",
+    "Expertise/0_2024Spring/Data Mining/决策树-hw3/决策树-编程题-1.pdf",
+    "Expertise/0_2024Spring/Data Mining/决策树-hw3/attachments/Pasted image 20240506095055.png",
+    "Expertise/0_2024Spring/Data Mining/决策树-hw3/attachments/Pasted image 20240506094842.png",
+    "Expertise/0_2024Spring/Data Mining/决策树-hw3/attachments",
+    "Expertise/0_2024Spring/Data Mining/ref/[solution] Introduction to Data Mining Instruction Solution Manual.pdf",
+    "Expertise/0_2024Spring/Algorithm/algo-hw6/algo-hw06.pdf",
+    "Expertise/0_2024Spring/Algorithm/algo-hw6/21302010040_叶天逸_算法6-DP.pdf",
+    "Expertise/0_2024Spring/Algorithm/algo-hw6/worksheet4-greedy.pdf",
+    "Expertise/0_2024Spring/Cloud-native/Lab2-Cloud-Native/assets/3/services_view.png",
+    "Expertise/0_2024Spring/Cloud-native/Lab2-Cloud-Native/assets/1/reverse-proxy.png",
+    "SuCanvas.canvas",
+    "Untitled 1.canvas"
+  ]
+}

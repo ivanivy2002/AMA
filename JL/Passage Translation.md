@@ -1,0 +1,3 @@
+This weekend, we decided to visit a quaint village where they sell handmade crafts. I was eager to explore every corner of the market. We were amazed at how diverse the offerings were, and we spent a couple of hours there, soaking up the atmosphere. You would have admired the intricacy of the local pottery. They had all sorts of items, from jewelry to woven baskets. There were many stalls, but only a few sold traditional scarves. How these artisans create such beautiful pieces is beyond me. All in all, it was a wonderful day, and we returned home happy and content.
+
+Ki tjrou,  ngasa 
